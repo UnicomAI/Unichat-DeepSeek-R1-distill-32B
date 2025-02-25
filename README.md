@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5fb222231c331709abdb00a484612f56cd5ee5cfb0e46a776340115eac5a398b
-size 758
+# Unichat-DeepSeek-R1-distill-32B
+
+## Introduction
+
+The Yuanjing Chain-of-Thought Model, currently we are releasing a version based on **DeepSeek-R1-distill-32B**. This model can be downloaded from [ModelScope](https://www.modelscope.cn/UnicomAI/Unichat-DeepSeek-R1-distill-32B) and [WiseModel](https://wisemodel.cn/models/UnicomLLM/Unichat-DeepSeek-R1-distill-32B).
+
+### Download Links
+
+- **ModelScope**: [Unichat-DeepSeek-R1-distill-32B](https://www.modelscope.cn/UnicomAI/Unichat-DeepSeek-R1-distill-32B)
+- **WiseModel**: [Unichat-DeepSeek-R1-distill-32B](https://wisemodel.cn/models/UnicomLLM/Unichat-DeepSeek-R1-distill-32B)
